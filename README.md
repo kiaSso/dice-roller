@@ -1,1 +1,1 @@
-This app represents a dice. Keep rolling!
+# This app represents a dice. Keep rolling!
